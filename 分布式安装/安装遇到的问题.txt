@@ -1,0 +1,2 @@
+1.zookeeper报错
+最终发现zookeeper地址没有配对
