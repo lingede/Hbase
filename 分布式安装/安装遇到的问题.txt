@@ -1,2 +1,6 @@
 1.zookeeper报错
 最终发现zookeeper地址没有配对
+
+2.regionserver启动不成功
+将hadoop中/home/xuhui/hadoop-2.2.0/share/hadoop/common/lib包里的slf4j-api-1.7.5.jar和slf4j-log4j12-1.7.5.jar复制到/home/xuhui/hadoop-2.2.0/hbase-0.98.2-hadoop2/lib下
+
